@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TestActivity!</string>
+    <string name="app_name">Word Search Game</string>
+    <string-array name="data1s">
+        <item >example</item>
+        <item >family</item>
+        <item >sentence</item>
+        <item >book</item>
+        <item >body</item>
+        <item >short</item>
+        <item >turn</item>
+        <item >page</item>
+        <item >group</item>
+        <item >hand</item>
+        <item >near</item>
+        <item >open</item>
+        <item >sea</item>
+        <item >dog</item>
+        <item >yes</item>
+        <item >car</item>
+        <item >try</item>
+        <item >ago</item>
+        <item >boy</item>
+        <item >no</item>
+    </string-array>
+    
+        <string-array name="data2s">
+        <item >world</item>
+        <item >tree</item>
+        <item >door</item>
+        <item >food</item>
+        <item >body</item>
+        <item >same</item>
+        <item >paper</item>
+        <item >root</item>
+        <item >tower</item>
+        <item >male</item>
+        <item >read</item>
+        <item >girl</item>
+        <item >love</item>
+        <item >life</item>
+        <item >easy</item>
+        <item >much</item>
+        <item >only</item>
+        <item >air</item>
+        <item >cat</item>
+		<item >or</item>
+    </string-array>
+
+         
+    <string-array name="data3s">
+        <item>seen</item>
+        <item>tear</item>
+        <item>sure</item>
+        <item>face</item>
+        <item>feel</item>
+    	<item>half</item>
+        <item>high</item>
+        <item>hand</item>
+        <item>idea</item>
+        <item>deal</item>
+        <item>feet</item>
+        <item>ball</item>
+        <item>mind</item>
+        <item>moon</item>
+        <item>stay</item>
+        <item>tiny</item>
+        <item>run</item>
+        <item>put</item>
+        <item>fat</item>
+        <item>dog</item>
+    </string-array>
+	
+	<string-array name="data4s">
+		<item>future</item>
+		<item>domain</item>
+		<item>social</item>
+		<item>fruit</item>
+		<item>count</item>
+		<item>legal</item>
+		<item>foot</item>
+		<item>rope</item>
+		<item>know</item>
+		<item>news</item>
+		<item>exam</item>       
+		<item>dear</item>
+		<item>gear</item>
+		<item>fire</item>
+		<item>hey</item>
+		<item>son</item>        
+		<item>fat</item>
+		<item>rat</item>
+		<item>us</item> 
+		<item>to</item>
+	</string-array>	
+	
+	<string-array name="data5s">
+		<item>farewells</item>
+		<item>useless</item>
+		<item>mirage</item>
+		<item>itself</item>
+		<item>nulls</item>
+		<item>bald</item>
+		<item>dell</item>
+		<item>like</item>
+		<item>poll</item>
+		<item>boil</item>
+		<item>sol</item>
+		<item>alm</item>
+		<item>sea</item>
+		<item>dog</item>
+		<item>yes</item>
+		<item>car</item>
+		<item>try</item>
+		<item>ago</item>
+		<item>boy</item>
+		<item>no</item>
+	</string-array>	
+	
+	<string-array name="data6s">
+		<item>aseptic</item>
+		<item>permit</item>
+		<item>carafe</item>
+		<item>large</item>
+		<item>gnome</item>
+		<item>emery</item>
+		<item>minty</item>
+		<item>azure</item>
+		<item>drop</item>
+		<item>avid</item>
+		<item>visa</item>
+		<item>bare</item>
+		<item>barn</item>
+		<item>girl</item>
+		<item>mad</item>
+		<item>ace</item>
+		<item>him</item>
+		<item>rue</item>
+		<item>us</item>
+		<item>go</item>    
+	</string-array>	
+	
+	<string-array name="data7s">
+		<item>trophy</item>
+		<item>fleece</item>
+		<item>unique</item>
+		<item>shins</item>
+		<item>slope</item>
+		<item>agony</item>
+		<item>solo</item>
+		<item>will</item>
+		<item>bead</item>
+		<item>four</item>
+		<item>stun</item>
+		<item>wash</item>
+		<item>word</item>
+		<item>hype</item>
+		<item>know</item>
+		<item>hue</item>
+		<item>car</item>
+		<item>try</item>
+		<item>go</item>
+		<item>do </item>
+	</string-array>	
+	
+	<string-array name="data8s">
+		<item>oldest</item>
+		<item>asides</item>
+		<item>poling</item>
+		<item>medic</item>
+		<item>debug</item>
+		<item>dados</item>
+		<item>mucks</item>
+		<item>mufti</item>
+		<item>fogy</item>
+		<item>foci</item>
+		<item>edge</item>
+		<item>file</item>
+		<item>muse</item>
+		<item>tack</item>
+		<item>low</item>
+		<item>boo</item>
+		<item>dug</item>
+		<item>tow</item>
+		<item>is</item>
+		<item>to</item>
+	</string-array>	
+	
+	
+	<string-array name="data9s">
+		<item>watchmen</item>
+		<item>novice</item>
+		<item>captor</item>
+		<item>prize</item>
+		<item>pique</item>
+		<item>fogy</item>
+		<item>abut</item>
+		<item>crow</item>
+		<item>yeah</item>
+		<item>tamp</item>
+		<item>skim</item>
+		<item>rat</item>
+		<item>elf</item>
+		<item>asp</item>
+		<item>job</item>
+		<item>see</item>
+		<item>spy</item>
+		<item>tot</item>
+		<item>pub</item>
+		<item>mom</item>
+	</string-array>	
+	
+	<string-array name="data10s">
+		<item>Boston</item>  
+		<item>outlet</item>  
+		<item>museum</item>  
+		<item>sense</item>   
+		<item>beach</item>   
+		<item>house</item>   
+		<item>boat</item>    
+		<item>came</item>    
+		<item>club</item>    
+		<item>exit</item>    
+		<item>hill</item>   
+		<item>lake</item>   
+		<item>tire</item>   
+		<item>taxi</item>  
+		<item>sky</item>    
+		<item>map</item>     
+		<item>gas</item>    
+		<item>bus</item>   
+		<item>by</item>    
+		<item>is</item>  
+	</string-array>	
+	
+	<string-array name="data11s">
+		<item>subway</item>  
+		<item>ticket</item>  
+		<item>muscle</item>  
+		<item>acean</item>   
+		<item>river</item>   
+		<item>truck</item>   
+		<item>west</item>    
+		<item>comb</item>    
+		<item>gift</item>    
+		<item>coat</item>    
+		<item>belt</item>    
+		<item>team</item>   
+		<item>tool</item>   
+		<item>boss</item>   
+		<item>dry</item>    
+		<item>job</item>      
+		<item>box</item>    
+		<item>tie</item>    
+		<item>cd</item>     
+		<item>so</item> 
+	</string-array>	
+	
+	<string-array name="data12s">
+		<item>blouse</item>  
+		<item>candle</item>  
+		<item>brush</item>  
+		<item>brush</item>  
+		<item>razor</item>   
+		<item>towel</item>   
+		<item>sand</item>    
+		<item>june</item>    
+		<item>aunt</item>    
+		<item>miss</item>    
+		<item>bill</item>   
+		<item>cake</item>   
+		<item>cafe</item>   
+		<item>corn</item>   
+		<item>key</item>    
+		<item>gym</item>    
+		<item>pig</item>    
+		<item>ham</item>    
+		<item>he</item>     
+		<item>we</item>
+	</string-array>	
+	
+	<string name="ads_ID"></string>
+    <string name="score">0</string>  
+    <string name="app_id"></string>
+</resources>

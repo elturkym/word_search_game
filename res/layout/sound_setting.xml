@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_classic33"
+    android:orientation="vertical" >
+
+       <CheckBox
+        android:id="@+id/checkBox1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:textColor="@android:color/background_dark"
+        android:text="Enable Vibration" />
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:textColor="@android:color/black"
+        android:text="Enable Sound" />
+
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="98dp"
+        android:layout_height="wrap_content"
+         android:textSize="30dp"
+        android:text="Back" />
+
+
+</LinearLayout>

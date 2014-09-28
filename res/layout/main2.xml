@@ -1,0 +1,54 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/transback"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="64dp"
+        android:layout_height="772dp"
+        android:layout_weight="0.21"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/close_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/com_facebook_close" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/sharebutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/authButton"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="55dp"
+            android:layout_weight="0.21"
+            android:visibility="invisible"
+            android:src="@drawable/share" />
+
+        <com.facebook.widget.LoginButton
+            android:id="@+id/authButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginBottom="240dp"
+            android:layout_weight="0.00" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="0.40"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+</LinearLayout>
